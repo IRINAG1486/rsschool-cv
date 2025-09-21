@@ -68,4 +68,6 @@ if (positive > 0 && negative < 0) {
 * GeekBrains: UX/UI designer
 * GeekBrains: developer
 
+## English language
+B2 (Upper-Intermediate)
 
