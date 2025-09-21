@@ -47,3 +47,21 @@ For me, learning is an opportunity to grow, discover new horizons, and apply kno
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 
+## Code example
+
+```Create two variables, positive and negative, into which the user enters values from the keyboard.
+Ask the user to enter a positive number into the variable positive and a negative number into the variable negative.
+Before storing the values in these variables, they must be converted into numbers.
+After the input, output "All values are correct." if the user really entered the correct values as requested.
+If the user entered an incorrect value in either case, output "One or more values are incorrect." to the console.
+```
+```const positive = +prompt('Enter positive number');  
+const negative = +prompt('Enter negative number');  
+if (positive > 0 && negative < 0) {  
+    console.log('All values are correct.');  
+} else {  
+    console.log('One or more values are incorrect.');  
+}  
+```  
+
+
