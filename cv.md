@@ -37,4 +37,13 @@ Experience with 1C, implementation and use of the system in professional activit
 
 ### Why I Chose to Study
 
-For me, learning is an opportunity to grow, discover new horizons, and apply knowledge to improve work processes in practice.
+For me, learning is an opportunity to grow, discover new horizons, and apply knowledge to improve work processes in practice.  
+
+## Skills  
+* Python, Java
+* Figma
+* Photoshop
+* HTML5, CSS3
+* Git, GitHub
+* VS Code, IntelliJ IDEA
+
