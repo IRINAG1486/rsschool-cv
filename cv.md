@@ -63,5 +63,9 @@ if (positive > 0 && negative < 0) {
     console.log('One or more values are incorrect.');  
 }  
 ```  
+## Education 
+* EAST KAZAKHSTAN TECHNICAL UNIVERSITY 
+* GeekBrains: UX/UI designer
+* GeekBrains: developer
 
 
