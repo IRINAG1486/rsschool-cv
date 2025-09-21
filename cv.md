@@ -40,7 +40,7 @@ Experience with 1C, implementation and use of the system in professional activit
 For me, learning is an opportunity to grow, discover new horizons, and apply knowledge to improve work processes in practice.  
 
 ## Skills  
-* Python, Java
+* Python, Java, JS
 * Figma
 * Photoshop
 * HTML5, CSS3
